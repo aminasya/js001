@@ -1,0 +1,8 @@
+.card {
+    background-color: black !important;
+    margin: 9rem;
+}
+.card-text {
+font-size: 10rem;
+color: white;
+}
